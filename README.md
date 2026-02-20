@@ -1,4 +1,4 @@
-# 🤖 Gaby & Beauty — AI Agent Suite 🇵🇦
+# 🤖 Gaby & Beauty — AI Agent Suite
 
 Sistema completo de automatización con IA para la academia de belleza **Gaby & Beauty** (Panamá), construido sobre N8N. Incluye un agente conversacional multimodal para WhatsApp y un agente analizador semanal de leads con reporte por correo.
 
